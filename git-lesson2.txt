@@ -1,0 +1,26 @@
+- De tan dung lam viec song song, tao khong gian lam viec cho tung thanh vien: Git branch va git checkout.
+- Gop ket qua cong viec va ho tro phan quyen cho cac thanh vien trong team: pull request
+- Dong bo cong viec giua cac thanh vien: git pull, merge, fetch
+
+2. git branch:
+branch dung de phan nhanh va branch da phan nhanh se khong anh huong den branch khac nen co the tien hanh nhieu thay doi dong thoi trong cung 1 repository.
+- git branch -r: liet ke branch o remote
+- git branch -a: liet ke branch o ca local va remote
+
+3. git checkout, git switch
+- git checkout [<option>] <branch> 
+- git switch <branch>
+
+4. pull request/ merge request:
+- branch master: default, 
+- pull request:
+
+5. git fetch:
+cap nhat su thay doi thong tin cua remote repository so voi local repo
+- git fetch <name remote>
+
+6. git merge:
+ket hop su thay doi cua cac commit ke tu luc tach nhanh cua nhanh hien tai vao nhanh tach ra truoc do:
+- git merge destination_branch_name(ten nhanh ban muon merge vao nhanh hien tai)
+
+7. git pull = git merge + git fetch
