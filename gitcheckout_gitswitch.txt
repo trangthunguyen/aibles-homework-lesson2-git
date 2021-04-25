@@ -7,3 +7,12 @@ Khác nhau:
 -git switch: 
 +git switch <branch>
 +chỉ sử dụng để chuyển nhánh,ít được dùng hơn.
+
+Trang NX:
+- git checkout và git switch: bạn note rất kỹ
+- Bạn nên bổ sung thêm về 
++ git branch
++ pull request, merge request
++ git fetch
++ git merge
++ git pull
