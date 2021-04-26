@@ -25,3 +25,5 @@ ket hop su thay doi cua cac commit ke tu luc tach nhanh cua nhanh hien tai vao n
 
 7. git pull = git merge + git fetch
 
+*Note: bài Trang rất tốt, t bổ sung chút nhé:
+-pull request: cho phép nói với người khác về các thay đổi bạn đã đẩy lên kho Github.
